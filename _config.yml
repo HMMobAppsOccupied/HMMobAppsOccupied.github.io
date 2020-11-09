@@ -14,11 +14,8 @@ author: Chris Kaiser, Harry Qiao, Arushi Talwar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
+ Chris's Website: "https://chris882-2021.github.io"
+ Harry's Website: "https://harryqiao.github.io"
 
 # --- Logo --- #
 
