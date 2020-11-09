@@ -1,7 +1,14 @@
-Occupied
-Team Contract
+---
+layout: post
+title: Team Contract
+tags: [homework]
+comments: true
+---
 
-Preliminary Information: 
+###Occupied
+##Team Contract
+
+#Preliminary Information: 
 
 Chris Kaiser: 
 - Extracurriculars:
