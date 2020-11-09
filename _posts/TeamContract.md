@@ -12,34 +12,34 @@ comments: true
 
 Chris Kaiser: 
 - Extracurriculars:
-	Clubs: FTC Robotics (Mondays, Wednesdays, and Fridays)
-	Sports: Ultimate Frisbee (Spring - weekdays after school)
+	- Clubs: FTC Robotics (Mondays, Wednesdays, and Fridays)
+	- Sports: Ultimate Frisbee (Spring - weekdays after school)
 - Experience:
-	Coding in Java and Python
-	Hardware development
-	Photoshop
+	- Coding in Java and Python
+	- Hardware development
+	- Photoshop
 - Goals: 
-	Learning how to make a mobile app, and being a good team member.
+	- Learning how to make a mobile app, and being a good team member.
 
 Harry Qiao:
 - Extracurriculars:
-	UD Math Team (Monday & Thursday), MD Math Team (Wednesday)
-	GMT+8 Time Zone
+	- UD Math Team (Monday & Thursday), MD Math Team (Wednesday)
+	- GMT+8 Time Zone
 - Experience: 
-	Coding in Java, Python, Swift, and HTML
-	Won CS2 shark tank
+	- Coding in Java, Python, Swift, and HTML
+	- Won CS2 shark tank
 - Goals:
-	Put in the good work, and doing well in the Mobile Apps Class.
+	- Put in the good work, and doing well in the Mobile Apps Class.
 
 Arushi Talwar:
 - Extracurriculars:
-	Clubs: SIIC (Mondays), Parliamentary Debate (some Thursdays), Businessmann (your own time), The Record (every day most weeks)
-	Sports: Fencing (Winter - weekdays after school), Softball (Spring - weekdays after school)
+	- Clubs: SIIC (Mondays), Parliamentary Debate (some Thursdays), Businessmann (your own time), The Record (every day most weeks)
+	- Sports: Fencing (Winter - weekdays after school), Softball (Spring - weekdays after school)
 - Experience:
-	Designing logos and apps
-	Creating a User Interface
+	- Designing logos and apps
+	- Creating a User Interface
 - Goals:
-	Become a better coder
+	- Become a better coder
 
 
 ### Guiding Principles: 
