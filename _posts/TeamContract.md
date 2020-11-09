@@ -5,52 +5,50 @@ tags: [homework]
 comments: true
 ---
 
-###Occupied
-##Team Contract
+### Occupied
+## Team Contract
 
-#Preliminary Information: 
+# Preliminary Information: 
 
 Chris Kaiser: 
 - Extracurriculars:
-  - Clubs: FTC Robotics (Mondays, Wednesdays, and Fridays)
-- Sports: 
-  - Ultimate Frisbee (Spring - weekdays after school)
+	Clubs: FTC Robotics (Mondays, Wednesdays, and Fridays)
+	Sports: Ultimate Frisbee (Spring - weekdays after school)
 - Experience:
-  - Coding in Java and Python
-  - Hardware development
-  - Photoshop
+	Coding in Java and Python
+	Hardware development
+	Photoshop
 - Goals: 
-  - Learning how to make a mobile app, and being a good team member.
+	Learning how to make a mobile app, and being a good team member.
 
 Harry Qiao:
 - Extracurriculars:
-  - UD Math Team (Monday & Thursday), MD Math Team (Wednesday)
-  - GMT+8 Time Zone
+	UD Math Team (Monday & Thursday), MD Math Team (Wednesday)
+	GMT+8 Time Zone
 - Experience: 
-  - Coding in Java, Python, Swift, and HTML
-  - Won CS2 shark tank
+	Coding in Java, Python, Swift, and HTML
+	Won CS2 shark tank
 - Goals:
-  - Put in the good work, and doing well in the Mobile Apps Class. 
+	Put in the good work, and doing well in the Mobile Apps Class.
 
 Arushi Talwar:
 - Extracurriculars:
-Clubs: SIIC (Mondays)
-Parliamentary Debate (some Thursdays) 
-Businessmann (your own time)
-The Record (every day most weeks)
-Sports: Fencing (Winter - weekdays after school), Softball (Spring - weekdays after school)
-Experience
-Designing logos and apps
-Creating a User Interface
-Goals
- Become a better coder
+	Clubs: SIIC (Mondays), Parliamentary Debate (some Thursdays), Businessmann (your own time), The Record (every day most weeks)
+	Sports: Fencing (Winter - weekdays after school), Softball (Spring - weekdays after school)
+- Experience:
+	Designing logos and apps
+	Creating a User Interface
+- Goals:
+	Become a better coder
 
-Guiding Principles: 
+
+# Guiding Principles: 
 	Our team’s philosophy is inspired by the quote, “Take care of the minutes and the hours will take care of themselves.” This means that our team will work step by step. We will put our full effort into each task, and ensure that our final product will be at its best quality by maintaining a high quality of work throughout the project. 
 	Our ground rules are putting in hard work, making time for the team, and being accommodating of others. Each one of us values hard work, and intend to put their full effort into this project. We also want everyone to stay committed to the team, as well as being accommodating if anyone is having trouble with their tasks, especially in this arduous time.
 	Our team’s mission is to keep the student body healthy on campus both physically and mentally. We want to promote the safety regulations and social distancing on campus, to keep the possible spread of Covid-19 to a minimum. We also want to ensure that the student body remains mentally healthy, making sure everyone is given the most time to relax with their friends, so people don’t feel isolated in these separating times.
 
-Focus on Purpose: 
+
+# Focus on Purpose: 
 	The purpose of this project is to maintain social distance in the tents and eating stations, and ensuring that everyone has a place where they can relax and uncompress with friends. We want to create an app that can help guide people around campus to their friends, as well as maintain a space that follows the health guidelines set in place due to Covid-19. As we begin our project now, by the end of the project our team would like to create an app that follows our mission and fulfills the purpose it was designed for. We want to create an app that will show a complete map of HM, with all the possible spots to eat and relax. The app will also show how many people are in each of these spots, and if the maximum number of people in these spots is reached, as well as showing who is in each spot.
 
 Group Roles: 
