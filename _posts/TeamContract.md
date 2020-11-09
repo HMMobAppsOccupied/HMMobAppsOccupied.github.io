@@ -5,10 +5,10 @@ tags: [homework]
 comments: true
 ---
 
-### Occupied
+# Occupied
 ## Team Contract
 
-# Preliminary Information: 
+### Preliminary Information: 
 
 Chris Kaiser: 
 - Extracurriculars:
@@ -42,19 +42,19 @@ Arushi Talwar:
 	Become a better coder
 
 
-# Guiding Principles: 
+### Guiding Principles: 
 Our team’s philosophy is inspired by the quote, “Take care of the minutes and the hours will take care of themselves.” This means that our team will work step by step. We will put our full effort into each task, and ensure that our final product will be at its best quality by maintaining a high quality of work throughout the project. 
 Our ground rules are putting in hard work, making time for the team, and being accommodating of others. Each one of us values hard work, and intend to put their full effort into this project. We also want everyone to stay committed to the team, as well as being accommodating if anyone is having trouble with their tasks, especially in this arduous time.
 Our team’s mission is to keep the student body healthy on campus both physically and mentally. We want to promote the safety regulations and social distancing on campus, to keep the possible spread of Covid-19 to a minimum. We also want to ensure that the student body remains mentally healthy, making sure everyone is given the most time to relax with their friends, so people don’t feel isolated in these separating times.
 
 
-# Focus on Purpose: 
+### Focus on Purpose: 
 The purpose of this project is to maintain social distance in the tents and eating stations, and ensuring that everyone has a place where they can relax and uncompress with friends. We want to create an app that can help guide people around campus to their friends, as well as maintain a space that follows the health guidelines set in place due to Covid-19. As we begin our project now, by the end of the project our team would like to create an app that follows our mission and fulfills the purpose it was designed for. We want to create an app that will show a complete map of HM, with all the possible spots to eat and relax. The app will also show how many people are in each of these spots, and if the maximum number of people in these spots is reached, as well as showing who is in each spot.
 
-# Group Roles: 
+### Group Roles: 
 The roles for each person in our groups will be divided based on our levels of experience in the subject. All of us will play critical roles in planning and designing the base concept of the app, like how it would look on a general level and how it will function. Besides this main group role, each of us will have a specific task in mind. Arushi will focus more on the design and user interface, coming up with how the app will look and how the user interacts with the app. Harry will work more on the code of the app, how the software functions. Chris will also work on the code, work with photoshop to create any custom images needed for the app, and any outside research on the app.
 
-# Division of Labor: 
+### Division of Labor: 
 - The labor should be divided as evenly as possible with the three-member, each member committed to doing about a third of the work required for the project. 
 Each member will work together to design the functions of the app, as well as basic suggestions for the look. 
 	Arushi:
@@ -74,14 +74,14 @@ Each member will work together to design the functions of the app, as well as ba
 			Working with the stakeholders —the faculty— of the app. 
 			Researching the spaces to find the maximum number of people for each space.
 
-# Team Plan: 
+### Team Plan: 
 - For the group project proposal, each group member will have an individual task.
 	Chris: Register Github account, post-work, finish the team contract
 	Arushi: Create a logo, and work and finish task two.
 	Harry: Create a website and finish task three.
 
 
-# Meeting Management: 
+### Meeting Management: 
 - Meeting dates:
 	All class periods
 		Means H-period on odd days of the week.
@@ -97,7 +97,7 @@ Each member will work together to design the functions of the app, as well as ba
 		If there are in-person meetings, a group member will bring a laptop to allow Harry to zoom in.
 	If people disagree with each other during meetings, during the meetings the issue will be discussed, with each person presenting their idea during the meetings and working to compromise between the two ideas.
 
-# Documentation/Accountability: 
+### Documentation/Accountability: 
 - Recording information:
 	Each meeting will have an assigned scribe who will be responsible to record any ideas, critiques, or research information discussed during the meeting.
 	After every meeting, group members will be responsible for writing in a document that they did throughout the meeting.
@@ -105,7 +105,7 @@ Each member will work together to design the functions of the app, as well as ba
 	At the beginning of each meeting, each group member will present the work that they did in the previous week.
 	At the end of each meeting, 5 minutes will be spent planning the date and time of the next meeting, as well as overviewing what everyone must complete over the upcoming week.
 
-# Rewards/Punishments: 
+### Rewards/Punishments: 
 - Motivations:
 	Group members will be expected to complete their assigned tasks by the due dates created during the meeting.
 	There will be no rewards for completing tasks
@@ -122,7 +122,7 @@ Each member will work together to design the functions of the app, as well as ba
 		When critiquing keep the critiques positive not negative
 			Try to ask questions or give ideas as opposed to negative feedback
 
-# Follow-Up: 
+### Follow-Up: 
 - Check-ins:
 	Throughout the week every group member will be responsible for their task alone unless they previously asked for assistance. 
 	If a group member needs assistance they will be expected to ask promptly, to allow the other group members to assist them before the due date. 
