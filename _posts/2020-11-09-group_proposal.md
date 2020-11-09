@@ -4,9 +4,6 @@ title: Group Proposal
 tags: [homework]
 comments: true
 ---
-
-# Team Contract
-
 # Group Project Proposal
 
 The problem we are aiming to solve through our mobile app is the uncertainty surrounding the occupancy of tents on campus. Most times, tents are full or near capacity which can be challenging for students when finding a meeting place. Too often, students are found walking the field to find an open tent, or even worse, trying to fit in one that already is at capacity. It is also difficult to find your friends when they are in tents, which leads to further confusion. Since tents will most likely stay on campus for the months, or even years to follow, it makes it that much more important that we find a solution to this problem. 
