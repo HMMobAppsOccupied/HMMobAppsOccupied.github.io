@@ -23,9 +23,9 @@ comments: true
 	From the contextual inquiry, our group members were able to learn about places that Yoda socialized and relaxed, as well as their opinion on the app. Our group members found that the best places to socialize would be the library and the student lounge, and for relaxation, specifically for Yoda, that sometimes lying on the lawn in front of Spence College was a nice place to sit and take a nap if the weather was good. These areas would be important to include on the app, as well as have some general areas on campus on the app as well. 
 	Although the information on the areas of relaxation and socialization was useful for the app, Yoda’s opinion on the app was less than satisfactory. They believed that the app wasn’t necessary to find friends or places to relax. They acknowledged that it could be useful to make sure the places they wanted to find were following Covid-19 guidelines by not having too many people. However, their main opinion was that people already had a way of contacting and asking their friends where they were, especially if people might not use the app to reserve spots or say where they are. This brings the problem of how we can maintain that everyone will use the app to make it work for the Horace Mann community.
   
-#### Contexual Inquiry Analysis
+### Contexual Inquiry Analysis
 
-###### Identify high-level themes the participants share in their practices. These would be the headings of different groupings in your affinity diagrams.
+##### Identify high-level themes the participants share in their practices. These would be the headings of different groupings in your affinity diagrams.
 - Friends
 - Weather
 - Spaces
@@ -33,15 +33,15 @@ comments: true
 - Existing apps
 - How much of the HM community will use our app?
 
-###### Do these themes, problems, and practices suggest tasks to important to design for?
+##### Do these themes, problems, and practices suggest tasks to important to design for?
 
 These themes, problems, and practices provide us an insight into what the HM community wants out of our app. These contextual inquiries also reminded us of some key ideas we didn’t come up with initially. For example, we never thought weather can be such a big theme, that it was mentioned in two of our contextual inquiries. However, if we take a step back, because the goal of our app is to address the uncertainty surrounding the occupancy of tents and other outdoor spaces, of course, the weather is a key factor to address. The users also raised plenty of questions for us to consider and address. For example, we need to figure out how to design our app so it will stand out vs. existing apps such as text and discord, and how to attract enough users to make our “reserve & check-in” system work. 
 
-###### Describe your process for identifying these themes.
+##### Describe your process for identifying these themes.
 
 The process for identifying these themes are fairly straightforward. Best our app idea and design is fairly simple, we kind of know what to look for. Themes such as “spaces” and “COVID-19 Guidelines” fall into this category. As expected, these themes are also the ones mentioned by the users. By comparing the contextual inquiries, we can figure out what practices or problems qualify as “high-level themes” and what does not (such as individual preferences).
 
-###### Include a photo of your group’s affinity diagram, even if it is unfinished.
+##### Include a photo of your group’s affinity diagram, even if it is unfinished.
 
 - Friends
   - Location
@@ -71,7 +71,7 @@ The process for identifying these themes are fairly straightforward. Best our ap
   - The app wasn’t necessary to find friends or places to relax
   - Useful to make sure the places were following Covid-19 guidelines
 
-#### Task Analysis
+### Task Analysis
 
 1. Who is going to use the design?
   - Mostly students but occasionally teachers
