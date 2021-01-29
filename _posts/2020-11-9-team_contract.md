@@ -85,10 +85,11 @@ The roles for each person in our groups will be divided based on our levels of e
 - Meeting dates:
 	- All class periods
 		- Means H-period on odd days of the week.
-	- As well as once over the week or during the weekend as an outside class check-in.
+	- As well as once outside of class if we are working on a project. Especially if that project relates to coding.
+		- Although it will be difficult with the difference in timezones online, we will try to meet at the best times possible. 
 - Coordination and Communication of Meetings:
-	- The primary coordination and communication of the meetings will take place through the app, WhatsApp.
-		- Allows international contact, which is important as Harry will be in China the majority of the time the app will be produced.
+	- The primary coordination and communication of the meetings will take place through the text message.
+		- Although Harry is international, we can still use text messages to communicate, especially useful in alerting us if someone needs something.
 	- Meetings will be planned according to the schedules of all three team members, accommodating for extracurricular activities and family life.
 	- Group members will be expected to report 24 hours in advance if they cannot attend a meeting.
 	- If a group member is not feeling well, whether it be physically or mentally related, or is having a bad day, they are allowed to notify their team members and not attend or leave the meeting early.
@@ -104,6 +105,8 @@ The roles for each person in our groups will be divided based on our levels of e
 - Planning:
 	- At the beginning of each meeting, each group member will present the work that they did in the previous week.
 	- At the end of each meeting, 5 minutes will be spent planning the date and time of the next meeting, as well as overviewing what everyone must complete over the upcoming week.
+	- We found it very useful in the Task Analysis lab to set due dates for when work will be finished, and from now on we will try to set reasonable due dates for each project. 
+		- We will also try to organize due dates depending on the project. If it is a smaller project we will try to finish it earlier and have a due date for sooner, as opposed to a bigger project which will be due later.
 
 ### Rewards/Punishments: 
 - Motivations:
