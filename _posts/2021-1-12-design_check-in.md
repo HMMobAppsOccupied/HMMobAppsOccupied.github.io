@@ -32,6 +32,8 @@ It is often difficult to find a tent during lunchtime, and even harder to stay a
 
 ### Possible Designs
 
+
+![Augmented Reality Design by Chris Kaiser.](/images/Chris_Drawing.jpg)
 #### Design 1: Chris's Augmented Reality Design
 The design I created is based on the system of augmented reality that has been used in mobile apps like Pokemon Go. Augmented reality uses the camera already on smartphones to allow the user to view the world with a new lens from the camera. The phone projects an image on the screen, that can interact with the real world through the camera. My design will allow users to explore the campus in a fun way while helping them navigate to a tent that would be safe to eat at during lunchtime. 
 
