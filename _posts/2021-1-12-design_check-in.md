@@ -10,6 +10,8 @@ comments: true
 ## Design Check-In Lab
 
 ### Task Review 
+
+
 #### Existing Tasks
 ##### Task 1: A Student Messaging Friends with Messaging Apps
 Due to Covid-19 and new social distancing guidelines put up by the school, tents have been placed throughout the field as places where students can relax and socialize with each other while staying safe. However, it can be hard to locate your friends during frees, especially when the tents available are changing throughout the day. Through contextual inquiries, we found that an existing task that students partake in is messaging friends with messaging apps like Messages, iMessage, Snapchat, and Discord. Messaging apps enable students to communicate and locate one another. This task is particularly easy as basically all of the schools possess cell phones and can message one another. However, there was difficulty in locating particular tents, as there is no map that shows where specific tents are concerning the campus so students had trouble locating friends solely based on the name of the tents (For example Tent West 3).
