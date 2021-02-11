@@ -47,10 +47,10 @@ The design I created is based on the system of augmented reality that has been u
 
 ![Calculated Assitant Design by Arushi Talwar.](/images/Arushi_Drawing.jpeg)
 #### Design 2: Arushi's Calculated Assitant Design
-This drawing takes a different approach than the other ones we have done. For this, it’s more interactive in the sense that you can input how many people there are in your group. By including this feature we are able to make better predictions about exactly what tent is right for the group. This eliminates the need to go to the tent and then log in the number of people which can take time and may not be accurate. Also included in this sketch is the teacher version. In this version, they will be able to quickly identify which tents need to be checked up on. This makes it much easier to keep things under control while still being able to accommodate larger groups. Overall, students will be able to automatically “log in” to a tent, and teachers will be able to see where they need to look out for. In this sketch we also utilized simplicity in order to make the interface as user-friendly and clear as possible.
+This drawing takes a different approach than the other ones we have done. For this, it’s more interactive in the sense that you can input how many people there are in your group. By including this feature we can make better predictions about exactly what tent is right for the group. This eliminates the need to go to the tent and then log in the number of people which can take time and may not be accurate. Also included in this sketch is the teacher version. In this version, they will be able to quickly identify which tents need to be checked up on. This makes it much easier to keep things under control while still being able to accommodate larger groups. Overall, students will be able to automatically “log in” to a tent, and teachers will be able to see where they need to look out for. In this sketch, we also utilized simplicity to make the interface as user-friendly and clear as possible.
 
 - Task 2: The user types in their group number to find a tent that is safe for them to eat in.
 - Task 4: The tents have the people’s names displayed on the “more information” section.
 - Task 6: The teacher version alerts the teacher on which tents to check on.
-- Task 3: Teachers are able to log in to see the capacity of each tent, thereby making it easier to direct students.
+- Task 3: Teachers can log in to see the capacity of each tent, thereby making it easier to direct students.
 
