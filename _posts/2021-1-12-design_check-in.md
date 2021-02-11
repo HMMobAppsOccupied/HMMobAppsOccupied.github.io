@@ -43,7 +43,7 @@ The design I created is based on the system of augmented reality that has been u
 - Task 2: Using the augmented reality camera system, the user can also scan a QR code which will bring the user to a screen that allows them to enter a tent and type in their name.
 
 
-![Calculated Assitant Design by Arushi Talwar.](/images/Arushi_Drawing.JPG)
+![Calculated Assitant Design by Arushi Talwar.](/images/Arushi_Drawing.jpeg)
 #### Design 2: Arushi's Calculated Assitant Design
 This drawing takes a different approach than the other ones we have done. For this, it’s more interactive in the sense that you can input how many people there are in your group. By including this feature we are able to make better predictions about exactly what tent is right for the group. This eliminates the need to go to the tent and then log in the number of people which can take time and may not be accurate. Also included in this sketch is the teacher version. In this version, they will be able to quickly identify which tents need to be checked up on. This makes it much easier to keep things under control while still being able to accommodate larger groups. Overall, students will be able to automatically “log in” to a tent, and teachers will be able to see where they need to look out for. In this sketch we also utilized simplicity in order to make the interface as user-friendly and clear as possible.
 
