@@ -55,7 +55,7 @@ This drawing takes a different approach than the other ones we have done. For th
 - Task 3: Teachers can log in to see the capacity of each tent, thereby making it easier to direct students.
 
 
-![Calculated Assitant Design by Arushi Talwar.](/images/Arushi_Drawing.jpeg)
+![Point and Click Design by Harry Qiao.](/images/Harry_Drawing.png)
 #### Design 3: Harry's Point and Click Design
 This design is the closest to our initial ideas on the app we came up with in October or November. Unlike the other two designs, this design is more basic but more straightforward. In this version, teachers and students will see the same interface even though teachers' accounts can be granted more access or power. The use of colors to show occupancy is the most effective to maintain social distancing protocols. For every user, they will be able to register and log in with their Horace Mann email address. When they enter a tent, they have the option to check-in by hitting a button to be more interactive. 
 
