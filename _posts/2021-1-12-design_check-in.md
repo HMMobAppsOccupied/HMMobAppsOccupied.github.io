@@ -26,8 +26,8 @@ Although the school built facilities (such as tents) that help to make it possib
 ##### Task 4: A Student Using the Application to Find where there Friends are
 An existing task that students partake in now to locate their friends is messaging their friends through messaging apps. A new task that our app will create that can make this process of locating friends easier and more efficient would be looking at our app to find the exact location of friends. Due to social distancing guidelines tents have been placed throughout the field, and locating the exact location or tent where your friends are can be difficult due to a lack of a map dictating where each tent is. The new task will allow students to open the app and find where each tent is located on the campus to find where their friends are. This can improve the efficiency of messaging apps, as students simply need to say which tent they are in and then their friends can locate the tent through a map. 
 
-##### Task 5: A Student Avoiding Crowded Tents by Using the App
-Through contextual inquiries, we found that students currently walk around a field to find a tent that they feel safe to sit or relax in. A new task that Occupied will create is to find the less crowded tents through our app. Due to social distancing guidelines, tents have been placed throughout the field, and locating a less crowded tent can be difficult due to a lack of a platform that keeps track of the occupancy. The new task will allow students to open the app and find the occupancy of each tent. This can improve the efficiency as students simply need to follow the map on our app to a tent that is less occupied. 
+##### Task 5: A Student Avoiding Crowded Tents and Entering Tents by Using the App
+Through contextual inquiries, we found that students currently walk around a field to find a tent that they feel safe to sit or relax in. A new task that Occupied will create is to find the less crowded tents through our app. Due to social distancing guidelines, tents have been placed throughout the field, and locating a less crowded tent can be difficult due to a lack of a platform that keeps track of the occupancy. The new task will allow students to open the app and find the occupancy of each tent. This can improve the efficiency as students simply need to follow the map on our app to a tent that is less occupied. The students can then sign into a tent to occupy it. 
 
 ##### Task 6: A Teacher Being Aletered when a Tent is Too Crowded and Not Safe
 It is often difficult to find a tent during lunchtime, and even harder to stay alert when understanding how populated a tent should become. Once students sit down to eat, no one is paying attention to those coming in. Even though tents are mostly safe since they are spacious and outdoors, it is still important to make sure they do not get overcrowded. It should not be the teacher’s responsibility to monitor each tent when it can be done more efficiently. With Occupied, a new task will be introduced that will allow teachers to open the app and be alerted if a tent becomes too crowded. Instead of walking around the alumni field which takes upwards of 15 minutes a time, the app can show the teacher where they should go. This task allows teachers to address unsafe COVID situations while simultaneously saving time and energy. 
@@ -54,3 +54,12 @@ This drawing takes a different approach than the other ones we have done. For th
 - Task 6: The teacher version alerts the teacher on which tents to check on.
 - Task 3: Teachers can log in to see the capacity of each tent, thereby making it easier to direct students.
 
+
+![Calculated Assitant Design by Arushi Talwar.](/images/Arushi_Drawing.jpeg)
+#### Design 3: Harry's Point and Click Design
+This design is the closest to our initial ideas on the app we came up with in October or November. Unlike the other two designs, this design is more basic but more straightforward. In this version, teachers and students will see the same interface even though teachers' accounts can be granted more access or power. The use of colors to show occupancy is the most effective to maintain social distancing protocols. For every user, they will be able to register and log in with their Horace Mann email address. When they enter a tent, they have the option to check-in by hitting a button to be more interactive. 
+
+- Task 2: The user looks at the campus birdseye view map to find a green/yellow tent/space. 
+- Task 4: When the user clicks on each tent/space, they can find a list of names that are checked into that space. 
+- Task 6: The teacher looks for the red tents/spaces to check on.
+- Task 5: The check-in function allows users to check themselves into a tent/space.
