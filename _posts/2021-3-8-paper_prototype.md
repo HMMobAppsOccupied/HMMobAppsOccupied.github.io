@@ -38,4 +38,4 @@ After selecting a tent to enter, the app will give you this screen to be able to
 ### Part 5: All Done
 ![End Screen.](/images/Finished.jpeg)
 
-One a student and group enters a tent, the app will automatically add that number of peole to the tent and show this screen. This screen lets the students know they are done with the process, and can then log out of the app.
+Once a student and group enters a tent, the app will automatically add that number of peole to the tent and show this screen. This screen lets the students know they are done with the process, and can then log out of the app.
